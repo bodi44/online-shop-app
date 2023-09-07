@@ -1,0 +1,2 @@
+// TODO: move to .env file
+export const BASE_API_URL = 'https://dummyjson.com';

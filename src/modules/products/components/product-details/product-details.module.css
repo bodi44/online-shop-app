@@ -1,0 +1,4 @@
+.requiredText:after {
+  content: '*';
+  color: red;
+}
